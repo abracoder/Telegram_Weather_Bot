@@ -1,0 +1,16 @@
+{
+  "name": "weathy_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for weather information",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
